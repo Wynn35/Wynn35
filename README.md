@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wynn35&show_icons=true&theme=radical" alt="GitHub Stats" />
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynn35&layout=compact&theme=dark" />
 
 
 Here are some ideas to get you started:
